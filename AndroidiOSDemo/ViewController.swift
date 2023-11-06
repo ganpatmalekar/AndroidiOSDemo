@@ -11,9 +11,15 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        //Function call
+        initialSetip()
         // Do any additional setup after loading the view.
     }
 
-
+    //Function for setting UI
+    func initialSetip(){
+        
+    }
 }
 
